@@ -1,0 +1,95 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    background: hsl(225, 100%, 94%);
+}
+
+.container{
+    margin-left: 20em;
+    padding-top: 60px;
+}
+.card{
+    width: 18rem;
+    border-radius: 10px;
+    border: 0.5px solid #ffffff;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    /* height: 80vh; */
+}
+
+.card-img-top{
+    width: 100%;
+    background-position: top ;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-body{
+    text-align: center;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.card-title{
+    font-weight: 900;
+}
+.card-text{
+    font-weight: 500;
+    font-size: 16px;
+}
+
+
+.row{
+    background: #f5f7ff;
+    margin-top: -3px;
+    border: 0.5px solid #f5f7ff;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+#music{
+    height: 35px;
+    margin-top: 0.4em;
+    margin-left: -1.5em;
+}
+
+.text1{
+    margin-top: 0.4em;
+    margin-left: -3em;
+    font-size: 12px;
+    font-weight: 500;
+}
+.text2{
+    font-weight: 900;
+}
+.text3{
+    margin-top: 0.7em;
+    color: hsl(223, 47%, 23%);
+    font-weight: 900;
+    font-size: 13px;
+}
+
+.btn{
+    margin-top: 1.9em;
+    background:  #3829e0;
+    color: #ffffff;
+    border: 0.5px solid #3829e0;
+    border-radius: 10px;
+    width: 90%;
+    font-weight: 900;
+    font-size: 12px;
+    box-shadow: 5px 10px 8px #bfb9fcc9;
+}
+
+.cancel_order{
+    margin-bottom: 1.5em;
+    margin-top: 0.5em;
+    text-align: center;
+    text-decoration: none;
+    color: hsla(0, 1%, 45%, 0.829);
+    font-weight: 600;
+    font-size: 14px;
+}
