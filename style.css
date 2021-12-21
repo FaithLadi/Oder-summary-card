@@ -8,13 +8,13 @@ font-size: 11px;
 }
 
 body{
-   
+    background: hsl(225, 100%, 94%);
 }
 
 .container{
    
     padding-top: 70px;
-    background: hsl(225, 100%, 94%);
+   
     height: 100vh;
 }
 .card{
